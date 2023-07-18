@@ -1,5 +1,1 @@
-# Resume
-Getting Started with Create React App
-This project was bootstrapped with Create React App.
-
-
+how to integrate boards with github
