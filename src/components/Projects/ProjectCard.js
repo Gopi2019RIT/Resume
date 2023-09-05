@@ -50,7 +50,7 @@ const ProjectCard = () => {
       
     },
     {
-      img: "/profile/download(2).PNG",
+      img: "/profile/download(2).jpg",
       name: "MINESWEEPER GAME",
       tech: ["JAVA SWING","JAVA API"],
       //link: "https://waminipatil.github.io/expense-tracker/",
