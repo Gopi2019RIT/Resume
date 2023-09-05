@@ -78,7 +78,7 @@ function Navbar() {
           </a>
           <a
             className={styles.nav_link}
-            href={process.env.PUBLIC_URL + "/profile/WaminiResume.pdf"}
+            href={process.env.PUBLIC_URL + "/profile/GOPISANKAR.pdf"}
             target="_blank"
           >
             Resume
